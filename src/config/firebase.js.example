@@ -1,0 +1,3 @@
+// put config from your firebase console here
+
+export default firebaseConfig;
